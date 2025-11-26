@@ -18,3 +18,5 @@ npm install express
 node server.js
 npm i react
 npm start
+
+URL: github: https://github.com/ayishafarheens95-oss/Event-management.git
